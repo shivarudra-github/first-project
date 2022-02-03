@@ -1,0 +1,11 @@
+.p1
+  {
+   text-align: center;
+   font-size: large;
+   font-family: monospace;
+   background-color: rgb(247, 223, 15);
+   stroke: rgb(241, 0, 0);
+   stroke-width: 40%;
+   height: 40px;
+   text-shadow: 10px;
+  }
